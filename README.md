@@ -60,7 +60,7 @@ To checkout and run the project in Eclipse, do:
 
 You should now have a Jetty server running on localhost:8080. Navigate to [http://localhost:8080/](http://localhost:8080/) to play with the application
 
-To use the built in server adapters of Eclipse, instead of doing "Run As -> Maven Build..." you can do
+To use the built in server adapters of Eclipse, instead of doing "Run As -> Maven Build..." you can do all things
 - Run As -> Run on Server
 - Select the server you want to run on, e.g. Apache Tomcat 8 and click ok
 - *Do not use the suggested J2EE Preview server* as it is outdated, deprecated and does not support Servlet 3, which is required for this application
